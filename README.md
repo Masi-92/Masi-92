@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeScript/typeScript-origanal.svg" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Typescript/Typescript-origanal.svg" height="30" alt="Typescript logo "  />
 </div>
 
 ###
